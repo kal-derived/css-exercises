@@ -9,3 +9,8 @@ p{
 #elem3{
     font-size: 24px;
 }
+#elem4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
